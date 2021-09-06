@@ -1,0 +1,25 @@
+{
+  "name": "mit-fetch-render-data-react",
+  "version": "1.0.0",
+  "description": "CONTENTS OF THIS FILE\r ---------------------",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testMatch": [
+      "<rootDir>/**/**"
+    ]
+  },
+  "keywords": [],
+  "author": "Miriam Bade",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-preset-env": "^1.7.0"
+  },
+  "dependencies": {
+    "babel-plugin-nodejs-import-images": "^1.0.0"
+  }
+}

@@ -1,0 +1,90 @@
+body{
+        font-family:  "Roboto", sans-serif;
+        background-color: #1F262D !important;
+}
+
+.ticketmaster-header{
+    
+    background-color: #026CDF;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.inputQuery{
+    border-radius: 0.25rem;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    border: 1 px solid #fff !important;
+    
+}
+
+.searchButton{
+    background-color: white;
+    color:black;
+}
+
+.searchButton:hover{
+    background-color: #026CDF;
+    color:#fff;
+}
+
+.list-container{
+    background-color: #fff;
+}
+
+.list-container-bottom{
+    background-color: #026CDF;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+a:link { 
+    text-decoration: none;
+ }
+ a:visited { 
+     text-decoration: none; 
+}
+.item-color{
+    color: #000;
+}
+
+ .list-container { 
+    background-color: #026CDF;
+}
+
+.list-group-item{
+    background-color: #EBF4FD !important;
+    
+}
+
+.list-group-item:hover{
+    background-color: #026CDF !important;
+    
+}
+
+.item-color:hover{
+    color: #fff !important;
+    
+
+}
+
+.event-date-container{
+        margin-left: 5px;
+       
+}
+
+.nav-aligment{
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+.btn-nav {
+    color: #000 !important;
+    background-color: #fff !important;
+    /* border-color: #0d6efd; */
+}
+.btn-nav:hover {
+    color: #fff !important;
+    background-color: #3396FF !important;
+    border-color: #fff;
+}
